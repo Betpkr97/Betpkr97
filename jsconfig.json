@@ -1,0 +1,9 @@
+{
+  "compilejsconfig.jsonrOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    }
+  },
+  "include": ["src"]
+}
